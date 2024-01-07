@@ -86,6 +86,6 @@ public class NutritionFacts {
 
 
     public static void main(String[] args) {
-        NutritionFacts nutritionFacts = new NutritionFacts(10, 10, 10);
+        new NutritionFacts(10, 10, 10);
     }
 }
