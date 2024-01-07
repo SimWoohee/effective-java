@@ -1,4 +1,4 @@
-package com.moe.java.effective.chapter3.constructor;
+package com.moe.java.effective.chapter03.constructor;
 
 public class NutritionFacts {
     private final int servingSize ;  //필수
